@@ -20,8 +20,8 @@ The dataset was carefully balanced to maintain a 1.5:1 ratio of AI to real image
 ## 🚀 How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ai-vs-human-classifier.git
-cd ai-vs-human-classifier
+[git clone https://github.com/yourusername/ai-vs-human-classifier.git](https://github.com/CindyWanyika/AI-image-Classifier.git)
+cd AI-image-Classifier
 
 # Install dependencies
 pip install -r requirements.txt
